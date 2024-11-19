@@ -1,5 +1,4 @@
 import allure
-from pyexpat.errors import messages
 
 from project_bps_iss.data import Users
 from project_bps_iss.pages.events_page import EventsPage
